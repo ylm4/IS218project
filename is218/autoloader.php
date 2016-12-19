@@ -12,4 +12,4 @@ class Autoloader
 		include $file;
 	}
 }
-?>
+
